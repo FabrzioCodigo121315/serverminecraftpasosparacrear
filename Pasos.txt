@@ -1,0 +1,51 @@
+Paso 1:
+
+Descargar el repositorio
+
+Paso 2:
+
+Abre el archivo de texto
+llamado "Star" y con el bloc de notas o note padt
+coloca donde dice "Archivo" y coloca guardar como
+
+paso 3:
+
+escribe lo siguiente en donde dice "Star" "Star.cmd"
+te aparecera en la carpetra un archivo cmd
+
+paso 4:
+
+ejecutalo
+una ves ejecutado se instalaran archivos
+
+paso 5:
+
+una vez instalado as doble click en "server.properties"
+
+y configuralo te colocare las configuraciones recomendadas:
+
+server-ip=cambien aquí su ip pública
+spawn-npcs=true
+allow-flight=false
+level-name=world
+view-distance=10
+resource-pack=
+spawn-animals=true
+white-list=false
+rcon.password=
+generate-structures=true
+online-mode=false
+
+paso 6: 
+vuelbe a ejecutar el cmd
+se instalaran más archivos
+
+paso 7:
+
+si se te cierra el cmd vuelbelo ha inciar
+
+paso 8:
+
+liston ya lo configuraste
+
+si quieres saver tu ip publica visita https://www.cual-es-mi-ip.net/
